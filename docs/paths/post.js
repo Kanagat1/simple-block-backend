@@ -1,5 +1,3 @@
-import { name } from "ejs"
-
  const postPaths = {
    "/post": {
     get: {
